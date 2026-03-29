@@ -1,1 +1,1 @@
-package inheritance.com;
+package interfacesInOpps.com;
