@@ -1,5 +1,10 @@
-package interfaces_com;
+package interfaces.com;
 
 public interface Payment {
-	void pay(double amount);
+	void GooglePay();
+	
+	void PhonePay();
+	
+	void paytem();
+
 }
